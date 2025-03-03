@@ -18,8 +18,8 @@ Questa applicazione consente di convertire immagini in arte ASCII. È possibile 
 
 1.  Assicurarsi di avere Python 3 installato.
 2.  Installare le dipendenze: `pip install opencv-python Pillow pyinstaller`
-3.  Eseguire lo script `r.py`.
-4.  (Opzionale) Per creare un eseguibile: `pyinstaller --onefile --windowed --icon=icon.ico r.py`
+3.  Eseguire lo script `.py`.
+4.  (Opzionale) Per creare un eseguibile: `pyinstaller --onefile --windowed --icon=icon.ico .py`
 
 ## English
 
@@ -37,8 +37,8 @@ This application allows you to convert images into ASCII art. You can import an 
 
 1.  Make sure you have Python 3 installed.
 2.  Install the dependencies: `pip install opencv-python Pillow pyinstaller`
-3.  Run the script `r.py`.
-4.  (Optional) To create an executable: `pyinstaller --onefile --windowed --icon=icon.ico r.py`
+3.  Run the script `.py`.
+4.  (Optional) To create an executable: `pyinstaller --onefile --windowed --icon=icon.ico .py`
 
 ## Français
 
@@ -56,8 +56,8 @@ Cette application vous permet de convertir des images en art ASCII. Vous pouvez 
 
 1.  Assurez-vous d'avoir Python 3 installé.
 2.  Installez les dépendances : `pip install opencv-python Pillow pyinstaller`
-3.  Exécutez le script `r.py`.
-4.  (Facultatif) Pour créer un exécutable : `pyinstaller --onefile --windowed --icon=icon.ico r.py`
+3.  Exécutez le script `.py`.
+4.  (Facultatif) Pour créer un exécutable : `pyinstaller --onefile --windowed --icon=icon.ico .py`
 
 ## Español
 
@@ -75,5 +75,5 @@ Esta aplicación le permite convertir imágenes en arte ASCII. Puede importar un
 
 1.  Asegúrese de tener Python 3 instalado.
 2.  Instale las dependencias: `pip install opencv-python Pillow pyinstaller`
-3.  Ejecute el script `r.py`.
-4.  (Opcional) Para crear un ejecutable: `pyinstaller --onefile --windowed --icon=icon.ico r.py`
+3.  Ejecute el script `.py`.
+4.  (Opcional) Para crear un ejecutable: `pyinstaller --onefile --windowed --icon=icon.ico .py`
