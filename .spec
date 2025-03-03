@@ -1,6 +1,6 @@
 # ASCII_Art_Converter.spec
-a = Analysis(['myapp.py'],
-             pathex=['/path/to/myapp'],
+a = Analysis(['myapp.py'], # Specify "ASCII_Art_Converter"
+             pathex=['/path/to/myapp'], # Path to the app
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ coll = COLLECT(exe,
                strip=False,
                upx=True,
                upx_exclude=[],
-               name='myapp')
+               name='myapp') # Name this app "ASCII_Art_Converter"
